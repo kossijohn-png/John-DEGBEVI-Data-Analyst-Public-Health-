@@ -219,8 +219,9 @@ Visualisation (Power BI)         ██████████████░�
 [![Email](https://img.shields.io/badge/Email-degbevikossijohn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degbevikossijohn@gmail.com)
 [![Téléphone](https://img.shields.io/badge/Téléphone-%2B229%200167456828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2290167456828)
 [![Localisation](https://img.shields.io/badge/Localisation%2C%20Bénin-1a6b3c?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![ComeUp](https://img.shields.io/badge/ComeUp-Services%20Freelance-F7B500?style=for-the-badge&logo=freelancer&logoColor=black)](https://comeup.com/fr/service/371998/realiser-lanalyse-statistique-complete-de-vos-donnees-avec-interpretation-claire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Fulbert%20DEGBEVI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-fulbert-degbevi-453003108)
+[![ComeUp](https://img.shields.io/badge/ComeUp-Services%20Freelance-F7B500?style=for-the-badge&logo=freelancer&logoColor=black)](https://comeup.com/fr/service/371998/realiser-lanalyse-statistique-complete-de-vos-donnees-avec-interpretation-claire)
+[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014f6995715bc4146c?mp_source=share)
 
 </div>
 
