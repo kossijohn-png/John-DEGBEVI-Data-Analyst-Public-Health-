@@ -20,7 +20,7 @@
 
 ## 🌍 Qui suis-je ?
 
-Je suis **DEGBEVI Kossi John Fulbert**, épidémiologiste et spécialiste en **Suivi-Évaluation & Management de Projet de Santé**, basé à **Parakou, Bénin**. Avec plus de **7 ans d'expérience** dans le domaine de la santé publique et du développement, j'interviens à l'interface entre la collecte de données terrain, l'analyse épidémiologique et la prise de décision stratégique.
+Je suis **DEGBEVI Kossi John Fulbert**, épidémiologiste et spécialiste en **Suivi-Évaluation & Management de Projet de Santé**, basé au **Bénin**. Avec plus de **7 ans d'expérience** dans le domaine de la santé publique et du développement, j'interviens à l'interface entre la collecte de données terrain, l'analyse épidémiologique et la prise de décision stratégique.
 
 Mon expertise couvre des projets allant des **registres populationnels de cancer** aux **études d'impact communautaires**, en passant par des **enquêtes multinationales** financées par des institutions internationales. Je conçois des systèmes de suivi robustes, analyse des données complexes et produis des rapports qui orientent les politiques de santé.
 
@@ -35,9 +35,8 @@ Mon expertise couvre des projets allant des **registres populationnels de cancer
 ### 📊 Analyse de Données de Santé
 - Analyse épidémiologique et biostatistique
 - Traitement de données avec **SPSS, STATA, R, Epi Info**
-- Codification médicale **CIM-10 / eTNM**
-- Registre et surveillance épidémiologique (**CanReg5, DHIS2**)
 - Visualisation de données avec **Power BI**
+- Registre et surveillance épidémiologique (**CanReg5, DHIS2**)
 
 </td>
 <td width="50%">
@@ -45,7 +44,7 @@ Mon expertise couvre des projets allant des **registres populationnels de cancer
 ### 📋 Suivi-Évaluation de Projets
 - Élaboration de **cadres logiques** et plans de S&E
 - Définition d'**indicateurs SMART** de performance
-- Conception d'outils de collecte (**KoboToolbox, REDCap, EpiData**)
+- Conception d'outils de collecte (**KoboToolbox, EpiData**)
 - Production de **tableaux de bord dynamiques**
 - Rédaction de rapports pour bailleurs (AFD, ONG, projets OMS)
 
@@ -82,14 +81,14 @@ Mon expertise couvre des projets allant des **registres populationnels de cancer
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1A4A82?style=flat-square&logoColor=white)
-![Epi Info](https://img.shields.io/badge/Epi%20Info-CDC-cc0000?style=flat-square)
-![CanReg5](https://img.shields.io/badge/CanReg5-IARC-2dba6e?style=flat-square)
+![EPI INFO](https://img.shields.io/badge/Epi%20Info-CDC-cc0000?style=flat-square)
 
 ### Collecte & Gestion de Données
-![KoboToolbox](https://img.shields.io/badge/KoboToolbox-00adef?style=flat-square)
-![REDCap](https://img.shields.io/badge/REDCap-8B0000?style=flat-square)
-![EpiData](https://img.shields.io/badge/EpiData-4CAF50?style=flat-square)
-![DHIS2](https://img.shields.io/badge/DHIS2-005a8e?style=flat-square)
+![KOBOTOOLBOX](https://img.shields.io/badge/KOBOTOOLBOX-00adef?style=flat-square)
+![EPIDATA](https://img.shields.io/badge/EPIDATA-4CAF50?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-B22222?style=for-the-badge&logo=databricks&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ### Visualisation & Reporting
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -182,7 +181,6 @@ Mon expertise couvre des projets allant des **registres populationnels de cancer
 | **Certificat** – Suivi et Évaluation d'un projet de développement | MOOC Campus AFD | Mai 2023 |
 | **Manipulation de données avec R** | Fan Club R – Université de Parakou | 2023-2024 |
 | **Licence Professionnelle** – Santé Publique & Surveillance Épidémiologique | ENATSE – Université de Parakou | 2014-2018 |
-| **Baccalauréat Série D** | CEG Albarika Parakou | 2013 |
 
 ---
 
@@ -190,7 +188,7 @@ Mon expertise couvre des projets allant des **registres populationnels de cancer
 
 ```
 ✅  Expérience directe avec les outils de référence OMS/IARC (CanReg5, DHIS2, CIM-10)
-✅  Participation à des études multinationales (Afrique Sub-Saharienne)
+✅  Participation à des études multinationales
 ✅  Maîtrise des standards de collecte et d'analyse épidémiologique
 ✅  Capacité à travailler dans des environnements multiculturels et à distance
 ✅  Contribution à des recherches avec financement européen (BCA-WA-ETHICS II)
@@ -204,12 +202,12 @@ Mon expertise couvre des projets allant des **registres populationnels de cancer
 ## 📈 Domaines d'expertise prioritaires
 
 ```
-Épidémiologie du cancer          ████████████████████  95%
+Épidémiologie                    ████████████████████  95%
 Suivi-Évaluation de projets      ██████████████████░░  90%
 Collecte de données (terrain)    ███████████████████░  92%
+Gestion de Big Data (SQL)        ████████████████░░░░  78%
 Analyse statistique (SPSS/R)     ████████████████░░░░  80%
-Visualisation (Power BI)         ██████████████░░░░░░  70%
-Systèmes d'info santé (DHIS2)    ████████████████░░░░  78%
+Visualisation (Power BI)         ██████████████░░░░░░  78%
 ```
 
 ---
