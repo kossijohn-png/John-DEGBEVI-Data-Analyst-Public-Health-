@@ -22,7 +22,7 @@
 
 Je suis **DEGBEVI Kossi John Fulbert**, épidémiologiste et spécialiste en **Suivi-Évaluation & Management de Projet de Santé**, basé au **Bénin**. Avec plus de **7 ans d'expérience** dans le domaine de la santé publique et du développement, j'interviens à l'interface entre la collecte de données terrain, l'analyse épidémiologique et la prise de décision stratégique.
 
-Mon expertise couvre des projets allant des **registres populationnels de cancer** aux **études d'impact communautaires**, en passant par des **enquêtes multinationales** financées par des institutions internationales. Je conçois des systèmes de suivi robustes, analyse des données complexes et produis des rapports qui orientent les politiques de santé.
+Mon parcours professionnel est ponctué par une expérience en tant qu’assistant de recherche au sein du cabinet de recherche que j’ai cofondé, où j’étais chargé de l’élaboration de protocoles d’études, de la conception de bases de données et de l’analyse de données pour des thèses et mémoires universitaires. J’ai ensuite rejoint le Registre Populationnel du Cancer de Parakou, où j’ai participé à la surveillance épidémiologique et l'analyse des données de cancer. Parallèlement, entre 2021 et 2026, j’ai accompagné plus de six études National et internationnale en tant que consultant associé pour diverses organisations non gouvernementales au Bénin.
 
 ---
 
